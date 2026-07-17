@@ -1,0 +1,16 @@
+<h2>🎬 Featured Punjabi Movie</h2>
+
+<p>Watch our latest Punjabi movie on YouTube.</p>
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/uWNJSmuezoU"
+title="Punjabi Movie"
+frameborder="0"
+allowfullscreen>
+</iframe>
+
+<p>
+<a href="https://youtu.be/uWNJSmuezoU?si=N3IS4VZkhucJeejY" target="_blank">
+Watch on YouTube
+</a>
+</p>
